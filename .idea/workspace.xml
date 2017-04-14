@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8a84445-8324-4f2e-a008-9309cb549749" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/firefighting.html" afterPath="$PROJECT_DIR$/firefighting.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product.html" afterPath="$PROJECT_DIR$/product.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team.html" afterPath="$PROJECT_DIR$/team.html" />
     </list>
     <ignored path="ChamroshAviation.github.io.iws" />
@@ -52,21 +49,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="team.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="team.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2640">
-              <caret line="176" column="45" selection-start-line="176" selection-start-column="45" selection-end-line="176" selection-end-column="45" />
+            <state relative-caret-position="195">
+              <caret line="155" column="167" selection-start-line="155" selection-start-column="167" selection-end-line="155" selection-end-column="167" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="208" column="45" selection-start-line="208" selection-start-column="45" selection-end-line="208" selection-end-column="45" />
+            <state relative-caret-position="156">
+              <caret line="204" column="40" selection-start-line="204" selection-start-column="40" selection-end-line="204" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -92,8 +89,8 @@
       <list>
         <option value="$PROJECT_DIR$/product.html" />
         <option value="$PROJECT_DIR$/firefighting.html" />
-        <option value="$PROJECT_DIR$/team.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/team.html" />
       </list>
     </option>
   </component>
@@ -238,12 +235,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492124479407</updated>
-      <workItem from="1492124480581" duration="3031000" />
+      <workItem from="1492124480581" duration="3482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3031000" />
+    <option name="totallyTimeSpent" value="3482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="832" extended-state="6" />
@@ -311,18 +308,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2640">
-          <caret line="176" column="45" selection-start-line="176" selection-start-column="45" selection-end-line="176" selection-end-column="45" />
+        <state relative-caret-position="156">
+          <caret line="204" column="40" selection-start-line="204" selection-start-column="40" selection-end-line="204" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/team.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="208" column="45" selection-start-line="208" selection-start-column="45" selection-end-line="208" selection-end-column="45" />
+        <state relative-caret-position="195">
+          <caret line="155" column="167" selection-start-line="155" selection-start-column="167" selection-end-line="155" selection-end-column="167" />
           <folding />
         </state>
       </provider>
