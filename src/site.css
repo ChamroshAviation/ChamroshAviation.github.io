@@ -73,6 +73,42 @@ html[xmlns] .flexslider .slides {
 .no-js .flexslider .slides > li:first-child {
   display: block;
 }
+/** ====================================================================================================================
+ * PHASE 1 STYLES
+ * ====================================================================================================================*/
+.white-tint {
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    overflow: auto;
+    top: 0px;
+    left: 0px;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.orange-tint {
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    overflow: auto;
+    top: 0px;
+    left: 0px;
+    background: rgba(176, 83, 36, 0.7);
+}
+.vertical-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.flex-wide {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 /* ====================================================================================================================
  * DEFAULT THEME
  * ====================================================================================================================*/
@@ -2076,11 +2112,10 @@ section .submasthead .submasthead-info { padding: 70px 45px; }
 @media screen and (max-width: 39.9375em) { section .submasthead .submasthead-info { padding: 36px 24px !important; } }
 section .spotlight { position: relative; overflow: hidden; background-size: cover; background-position: center; background-repeat: no-repeat; }
 @media screen and (min-width: 40em) { section .spotlight { min-height: 364px; } }
-section .spotlight p { color: #ffffff; }
 section .spotlight h3 { color: #ffffff; }
-section .spotlight .spotlight-info { position: relative; z-index: 1; padding: 70px 45px; overflow: hidden; margin-top: 10%; /*@media screen and (max-width: 39.9375em) { margin-top: 0;
+section .spotlight .spotlight-info { position: relative; z-index: 1; padding: 0.9375rem; padding-top: 4rem; padding-bottom: 4rem; overflow: hidden; margin-top: 0%; /*@media screen and (max-width: 39.9375em) { margin-top: 0;
 }*/ }
-@media screen and (min-width: 39.9375em) and (max-width: 63.9375em) { section .spotlight .spotlight-info { padding: 36px 24px !important; margin-top: 25%; } }
+@media screen and (min-width: 39.9375em) and (max-width: 63.9375em) { section .spotlight .spotlight-info { padding: 36px 24px !important; margin-top: 0%; } }
 section .jobs { margin-bottom: 36px; }
 section .jobs ul { margin-bottom: 0; }
 section .logos a.logo { display: block; }
