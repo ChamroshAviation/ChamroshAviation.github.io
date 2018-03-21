@@ -1,0 +1,43 @@
+/** ====================================================================================================================
+ * PHASE 1 STYLES
+ * ====================================================================================================================*/
+ .intro-body {
+   min-height: 95vh;
+ }
+.white-tint {
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    overflow: auto;
+    top: 0px;
+    left: 0px;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.orange-tint {
+    z-index: 1;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    overflow: auto;
+    top: 0px;
+    left: 0px;
+    background: rgba(176, 83, 36, 0.7);
+}
+.vertical-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.flex-wide {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+section .spotlight .spotlight-info { position: relative; z-index: 1; padding: 0.9375rem; padding-top: 4rem; padding-bottom: 4rem; overflow: hidden; margin-top: 0%; } 
+@media screen and (min-width: 39.9375em) and (max-width: 63.9375em) { section .spotlight .spotlight-info { padding: 36px 24px !important; margin-top: 0%; } }
+
