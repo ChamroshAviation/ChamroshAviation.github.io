@@ -4,6 +4,19 @@
  .intro-body {
    min-height: 95vh;
  }
+
+ .center {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+
+.bright-text {
+  color: #efefef !important;
+  line-height: 150%;
+  max-width: 700px;
+}
+
 .white-tint {
     z-index: 1;
     height: 100%;
